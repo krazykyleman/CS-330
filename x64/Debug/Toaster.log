@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Kyle W\Desktop\SNHU\Semester 10\CS-330\Module 7\Project 1\main.cpp(121,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kyle W\Desktop\SNHU\Semester 10\CS-330\Module 7\Project 1\main.cpp(122,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Toaster.vcxproj -> C:\Users\Kyle W\Desktop\SNHU\Semester 10\CS-330\Module 7\Project 1\x64\Debug\Textured Plane and Toaster.exe
